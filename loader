@@ -1,0 +1,4 @@
+set loader_load = true
+{
+
+  loader()
